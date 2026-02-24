@@ -15,7 +15,8 @@
       "adaptiveIcon": {
         "foregroundImage": "./assets/images/adaptive-icon.png",
         "backgroundColor": "#ffffff"
-      }
+      },
+      "package": "com.sachin200516.mobile"
     },
     "web": {
       "bundler": "metro",
@@ -40,7 +41,7 @@
     "extra": {
       "router": {},
       "eas": {
-        "projectId": "0bbd0b14-b015-44cf-aeae-05f22dd640bf"
+        "projectId": "568ca5eb-e56d-44cc-b568-74e1fe8642c8"
       }
     },
     "owner": "sachin200516"
