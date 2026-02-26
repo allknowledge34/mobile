@@ -40,7 +40,7 @@ export default function Signup() {
         <View style={styles.card}>
           {/* HEADER */}
           <View style={styles.header}>
-            <Text style={styles.title}>FitShare 🏋️</Text>
+            <Text style={styles.title}>DmilFit 🏋️</Text>
             <Text style={styles.subtitle}>Build and share your workouts</Text>
 
           </View>

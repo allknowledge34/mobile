@@ -74,7 +74,7 @@ export default function PrivacyAndSecurityScreen() {
                 <Card
                     icon="lock-closed-outline"
                     title="Privacy Policy"
-                    onPress={() => openLink("https://www.freeprivacypolicy.com/live/b49d0838-f981-4c5c-a42d-42f3c9cc6c9a")}
+                    onPress={() => openLink("https://www.freeprivacypolicy.com/live/4fbcbda6-898d-4be5-8afc-815dca0afa24")}
                 />
 
                 <Text style={styles.section}>General</Text>
